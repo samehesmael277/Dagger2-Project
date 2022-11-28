@@ -1,6 +1,6 @@
 # Dagger2-Project
 Project for Dagger2
-  * i use:
+  i use:
   - constructor injection 
   - field injection 
   - method injection 
